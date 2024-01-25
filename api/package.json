@@ -1,0 +1,16 @@
+{
+  "name": "food-search",
+  "version": "1.0.0",
+  "description": "api for food search",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "zhoujunwu",
+  "license": "MIT",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "csv-parser": "^3.0.0",
+    "express": "^4.18.2"
+  }
+}
