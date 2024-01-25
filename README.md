@@ -13,7 +13,7 @@ default port is 8080 to listen request
 
 
 ## 2. the /ui folder to run a single page at browser, to call backend api to get search result of foods
-change the API_URL according to backend api endpoint 
+change the API_URL in index.html file according to backend api endpoint 
 
 
 ## 3. TODO
